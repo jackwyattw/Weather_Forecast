@@ -8,7 +8,7 @@ In this exercise, you will practice creating reusable React Components.
 
 Here is the React Hierarchy you will be implementing:
 **Getting Started**
-In `src/index.html`you will find five weather elements that generate the output you are seeing now.
+In `public/index.html`you will find five weather elements that generate the output you are seeing now.
 Perform the following to complete the lab:
 
 ### **Creating The Data**
